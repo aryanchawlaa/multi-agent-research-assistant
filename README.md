@@ -137,3 +137,7 @@ multi-agent-research/
 
 ## Resume Line
 > "Built a multi-agent academic research pipeline using CrewAI and Groq LLaMA-3 where specialized agents autonomously search arXiv, detect contradictions between papers, and generate structured literature reviews — reducing manual research time from 4 hours to under 6 minutes."
+
+
+
+<video src="https://github.com/user-attachments/assets/" controls width="700"></video>
