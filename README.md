@@ -1,13 +1,11 @@
 # Multi-Agent Research Assistant
-### 100% FREE — No paid API keys required
+<video src="https://github.com/user-attachments/assets/https://github.com/user-attachments/assets/61752440-adce-41bb-8a63-746aebbb809a" controls width="700"></video>
 
 3 specialized AI agents that autonomously search arXiv, cross-verify claims, detect contradictions, and produce literature reviews.
 
 **Free Stack:** Groq (free LLM) · arXiv (free papers) · Qdrant (free local vector DB) · FastAPI · Streamlit
 
 ---
-
-## Get Your Free API Keys
 
 ### 1. Groq API Key (REQUIRED — replaces OpenAI, completely free)
 1. Go to **https://console.groq.com**
@@ -135,8 +133,7 @@ multi-agent-research/
 
 ---
 
-## Resume Line
-> "Built a multi-agent academic research pipeline using CrewAI and Groq LLaMA-3 where specialized agents autonomously search arXiv, detect contradictions between papers, and generate structured literature reviews — reducing manual research time from 4 hours to under 6 minutes."
+
 
 
 
